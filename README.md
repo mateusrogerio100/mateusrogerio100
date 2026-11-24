@@ -2,7 +2,7 @@
 
 **Português** · [English](#english)
 
-Sou **Assistente Contábil** num hospital filantrópico e estudo **Análise e Desenvolvimento de Sistemas**
+Engenheiro Civil, atualmente sou **Assistente Contábil** num hospital filantrópico e estudo **Análise e Desenvolvimento de Sistemas**
 na FATEC. Junto as duas coisas: transformo rotinas contábeis manuais em sistemas que conferem, cruzam e
 explicam os números, para o fechamento do mês levar horas em vez de dias.
 
